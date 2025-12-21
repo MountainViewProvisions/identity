@@ -1,0 +1,45 @@
+Organization Name:
+Mountain View Provisions LLC
+
+Purpose:
+This document serves as the canonical digital identity declaration for
+Mountain View Provisions LLC for compliance, security, and reputation
+management purposes.
+
+Statement of Control:
+The undersigned attests that the following email addresses are operated
+and controlled by Mountain View Provisions LLC. These addresses are used
+as communication endpoints only and do not represent separate legal
+entities, personas, or subsidiaries.
+
+Email Addresses:
+- mountainviewprovisions@gmail.com
+- mountainviewprovisions@proton.me
+- mountainviewprovisions@tutamail.com
+- mountainviewprovisions@outlook.com
+- mountainviewprovisions@aol.com
+- mountainviewprovisions@mail.com
+- mountainviewprovisions@mailfence.com
+- mountainviewprovisions@gmx.com
+
+Cryptographic Identity:
+The sole authoritative cryptographic identity for Mountain View
+Provisions LLC is the following OpenPGP key:
+
+OpenPGP Key Fingerprint:
+D82A 0028 D596 978A C69D 63C2 2339 B004 5EB2 8500
+
+Contact Escalation:
+Primary: mountainviewprovisions@proton.me
+Fallback: mountainviewprovisions@gmail.com
+
+Key Continuity:
+In the event of key compromise, revocation, or planned rotation, a
+signed successor or revocation statement will be published using this
+cryptographic identity or its designated replacement.
+
+Effective Date:
+2025-12-20
+
+Authorized Operator:
+Sean Bailey — Operator
