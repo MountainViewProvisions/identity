@@ -1,4 +1,5 @@
 # Identity Declaration
+Updated 12/21/25
 
 This repository contains the canonical cryptographic identity declaration
 for Mountain View Provisions LLC.
