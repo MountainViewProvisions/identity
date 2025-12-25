@@ -1,11 +1,36 @@
-# Identity Declaration
-Updated 12/21/25
+# Organization Identity
 
-This repository contains the canonical cryptographic identity declaration
-for Mountain View Provisions LLC.
+This repository contains the canonical digital identity documentation for
+Mountain View Provisions LLC.
 
-The file `IDENTITY.asc` is a clearsigned OpenPGP document asserting control
-of official communication endpoints and defining the organization’s
-cryptographic identity for compliance, security, and reputation management.
+It is the authoritative source for cryptographic identity assertions,
+official account references, and related verification material.
 
-Verification can be performed using standard OpenPGP tooling.
+## Contents
+
+- `IDENTITY.txt`  
+  Canonical identity declaration, including organizational control
+  statements and OpenPGP key information.
+
+- `IDENTITY.txt.asc`  
+  Detached OpenPGP signature for the identity declaration.
+
+- `OFFICIAL_ACCOUNTS.md`  
+  List of official online accounts operated by the organization.
+
+## Verification
+
+To verify the authenticity of this repository and its contents:
+
+1. Confirm that commits are signed and marked as **Verified** on GitHub.
+2. Verify the OpenPGP signature on `IDENTITY.txt`.
+3. Cross-check official accounts against `OFFICIAL_ACCOUNTS.md`.
+
+Any identity claims or accounts not referenced here should be considered
+unofficial.
+
+## Scope
+
+This repository is limited to identity and verification material.
+Security policies, compliance documentation, and operational procedures
+are maintained in separate repositories.
