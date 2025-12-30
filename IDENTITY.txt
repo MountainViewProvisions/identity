@@ -13,6 +13,7 @@ as communication endpoints only and do not represent separate legal
 entities, personas, or subsidiaries.
 
 Email Addresses:
+- sean.bailey@mountainviewprovisions.com
 - mountainviewprovisions@gmail.com
 - mountainviewprovisions@proton.me
 - mountainviewprovisions@tutamail.com
